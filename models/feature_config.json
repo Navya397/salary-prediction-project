@@ -1,0 +1,16 @@
+{
+  "target_col": "salary_lpa",
+  "num_features": [
+    "years_experience",
+    "skills_count",
+    "certifications",
+    "performance_score"
+  ],
+  "cat_features": [
+    "education_level",
+    "job_role",
+    "city_tier",
+    "company_size",
+    "work_mode"
+  ]
+}
